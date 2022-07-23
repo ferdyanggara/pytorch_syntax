@@ -1,1 +1,2 @@
-# pytorch_syntax
+# Pytorch Syntax Training
+RESNET REID project
