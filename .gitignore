@@ -1,0 +1,12 @@
+pa2_data
+.ipynb_checkpoints
+check.py
+coba.py
+experiment.py
+*.pdf
+*.zip
+*.docx
+*.ipynb
+*.pdf
+.DS_store
+*.pages
